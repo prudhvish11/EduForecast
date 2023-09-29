@@ -1,0 +1,18 @@
+[ 2023-09-29 16:25:32,284 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 16:25:32,306 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 16:25:32,626 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\matplotlib\\tests\\__init__.py', reloading
+[ 2023-09-29 16:25:32,637 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\matplotlib_inline\\__init__.py', reloading
+[ 2023-09-29 16:25:32,648 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\__init__.py', reloading
+[ 2023-09-29 16:25:32,675 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\_decode.py', reloading
+[ 2023-09-29 16:25:32,688 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\_encode.py', reloading
+[ 2023-09-29 16:25:32,702 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\_format.py', reloading
+[ 2023-09-29 16:25:32,717 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\_parse.py', reloading
+[ 2023-09-29 16:25:32,736 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mdurl\\_url.py', reloading
+[ 2023-09-29 16:25:32,749 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\mpl_toolkits\\__init__.py', reloading
+[ 2023-09-29 16:25:32,777 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\packaging\\__init__.py', reloading
+[ 2023-09-29 16:25:32,791 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\parso\\__init__.py', reloading
+[ 2023-09-29 16:25:32,823 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\plotly\\__init__.py', reloading
+[ 2023-09-29 16:25:33,182 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\plotly\\version.py', reloading
+[ 2023-09-29 16:25:33,193 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\prompt_toolkit\\__init__.py', reloading
+[ 2023-09-29 16:25:33,272 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+[ 2023-09-29 16:25:33,294 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\prompt_toolkit\\application\\application.py', reloading

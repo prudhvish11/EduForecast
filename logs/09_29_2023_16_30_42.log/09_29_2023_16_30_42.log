@@ -1,0 +1,12 @@
+[ 2023-09-29 16:30:42,778 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 16:30:42,791 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 16:31:12,565 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:12] "GET / HTTP/1.1" 200 -
+[ 2023-09-29 16:31:14,155 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:14] "GET /static/css/style2.css HTTP/1.1" 200 -
+[ 2023-09-29 16:31:14,245 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:14] "GET /static/css/report.jpg HTTP/1.1" 200 -
+[ 2023-09-29 16:31:14,683 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-29 16:31:18,870 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:18] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-29 16:31:19,101 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:19] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2023-09-29 16:31:24,215 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:24] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-09-29 16:31:40,029 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\sklearn\\base.py', reloading
+[ 2023-09-29 16:31:40,314 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:40] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-29 16:31:40,355 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 16:31:40] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -

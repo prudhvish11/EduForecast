@@ -1,0 +1,34 @@
+[ 2023-09-29 12:39:08,474 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 12:39:08,497 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 12:39:08,624 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_special_matrices.py', reloading
+[ 2023-09-29 12:39:08,657 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_solvers.py', reloading
+[ 2023-09-29 12:39:08,676 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py', reloading
+[ 2023-09-29 12:39:08,704 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_sketches.py', reloading
+[ 2023-09-29 12:39:08,718 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py', reloading
+[ 2023-09-29 12:39:08,734 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\misc\\__init__.py', reloading
+[ 2023-09-29 12:39:08,764 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\misc\\_common.py', reloading
+[ 2023-09-29 12:39:08,778 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\__init__.py', reloading
+[ 2023-09-29 12:39:08,824 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\_filters.py', reloading
+[ 2023-09-29 12:39:08,849 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\_fourier.py', reloading
+[ 2023-09-29 12:39:08,876 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\_interpolation.py', reloading
+[ 2023-09-29 12:39:08,905 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\_measurements.py', reloading
+[ 2023-09-29 12:39:08,939 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\ndimage\\_morphology.py', reloading
+[ 2023-09-29 12:39:08,970 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\odr\\__init__.py', reloading
+[ 2023-09-29 12:39:08,996 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\odr\\_odrpack.py', reloading
+[ 2023-09-29 12:39:09,020 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\odr\\_models.py', reloading
+[ 2023-09-29 12:39:09,037 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\__init__.py', reloading
+[ 2023-09-29 12:39:09,083 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_optimize.py', reloading
+[ 2023-09-29 12:39:09,151 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_minimize.py', reloading
+[ 2023-09-29 12:39:09,186 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_root.py', reloading
+[ 2023-09-29 12:39:09,207 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_root_scalar.py', reloading
+[ 2023-09-29 12:39:09,240 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_minpack_py.py', reloading
+[ 2023-09-29 12:39:09,269 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_zeros_py.py', reloading
+[ 2023-09-29 12:39:09,319 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_nonlin.py', reloading
+[ 2023-09-29 12:39:09,341 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\__init__.py', reloading
+[ 2023-09-29 12:39:09,411 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_waveforms.py', reloading
+[ 2023-09-29 12:39:09,427 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_bsplines.py', reloading
+[ 2023-09-29 12:39:09,445 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_filter_design.py', reloading
+[ 2023-09-29 12:39:09,474 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_fir_filter_design.py', reloading
+[ 2023-09-29 12:39:09,499 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_ltisys.py', reloading
+[ 2023-09-29 12:39:09,531 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_lti_conversion.py', reloading
+[ 2023-09-29 12:39:09,558 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\signal\\_signaltools.py', reloading

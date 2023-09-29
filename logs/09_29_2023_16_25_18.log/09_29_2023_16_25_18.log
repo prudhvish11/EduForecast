@@ -1,0 +1,12 @@
+[ 2023-09-29 16:25:18,385 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 16:25:18,406 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 16:25:20,569 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\__init__.py', reloading
+[ 2023-09-29 16:25:20,641 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_optimize.py', reloading
+[ 2023-09-29 16:25:20,746 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_minimize.py', reloading
+[ 2023-09-29 16:25:20,785 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_root.py', reloading
+[ 2023-09-29 16:25:20,808 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_root_scalar.py', reloading
+[ 2023-09-29 16:25:20,843 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_minpack_py.py', reloading
+[ 2023-09-29 16:25:21,163 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_zeros_py.py', reloading
+[ 2023-09-29 16:25:21,208 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\optimize\\_nonlin.py', reloading
+[ 2023-09-29 16:25:21,289 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+[ 2023-09-29 16:25:21,439 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading

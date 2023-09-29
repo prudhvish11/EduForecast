@@ -1,0 +1,13 @@
+[ 2023-09-28 21:43:34,849 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-28 21:43:34,863 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-28 21:43:42,400 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:42] "GET / HTTP/1.1" 200 -
+[ 2023-09-28 21:43:42,474 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:42] "[33mGET /static/style2.css HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:43:47,941 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:47] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-28 21:43:48,698 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:48] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2023-09-28 21:43:54,386 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:54] "GET / HTTP/1.1" 200 -
+[ 2023-09-28 21:43:54,425 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:54] "[33mGET /static/style2.css HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:43:56,054 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:56] "GET / HTTP/1.1" 200 -
+[ 2023-09-28 21:43:56,088 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:43:56] "[33mGET /static/style2.css HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:44:21,998 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading
+[ 2023-09-28 21:44:22,007 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\src\\utils.py', reloading
+[ 2023-09-28 21:44:22,009 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\src\\pipeline\\predict_pipeline.py', reloading

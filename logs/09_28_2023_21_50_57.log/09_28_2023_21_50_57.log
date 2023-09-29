@@ -1,0 +1,7 @@
+[ 2023-09-28 21:50:57,658 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-28 21:50:57,671 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-28 21:51:02,086 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:51:02] "GET / HTTP/1.1" 200 -
+[ 2023-09-28 21:51:02,760 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:51:02] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -
+[ 2023-09-28 21:55:40,911 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading
+[ 2023-09-28 21:55:40,913 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading
+[ 2023-09-28 21:55:40,914 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading

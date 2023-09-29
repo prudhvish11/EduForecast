@@ -1,0 +1,16 @@
+[ 2023-09-29 12:38:56,648 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 12:38:56,666 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 12:38:56,993 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\catboost\\widget\\__init__.py', reloading
+[ 2023-09-29 12:38:57,005 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\catboost\\widget\\ipythonwidget.py', reloading
+[ 2023-09-29 12:38:57,076 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\catboost\\widget\\metrics_plotter.py', reloading
+[ 2023-09-29 12:38:57,102 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\catboost\\widget\\callbacks.py', reloading
+[ 2023-09-29 12:38:57,146 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\certifi\\__init__.py', reloading
+[ 2023-09-29 12:38:57,186 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\certifi\\core.py', reloading
+[ 2023-09-29 12:38:57,242 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\__init__.py', reloading
+[ 2023-09-29 12:38:57,275 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\api.py', reloading
+[ 2023-09-29 12:38:57,296 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\legacy.py', reloading
+[ 2023-09-29 12:38:57,313 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\models.py', reloading
+[ 2023-09-29 12:38:57,471 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\utils.py', reloading
+[ 2023-09-29 12:38:57,568 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\charset_normalizer\\version.py', reloading
+[ 2023-09-29 12:38:57,604 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\click\\__init__.py', reloading
+[ 2023-09-29 12:38:57,687 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\click\\core.py', reloading

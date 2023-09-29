@@ -1,0 +1,4 @@
+[ 2023-09-28 21:44:29,975 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-28 21:44:29,990 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-28 21:44:30,146 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\AppData\\Roaming\\Python\\Python39\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+[ 2023-09-28 21:44:30,153 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\AppData\\Roaming\\Python\\Python39\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading

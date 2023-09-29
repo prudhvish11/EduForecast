@@ -1,0 +1,11 @@
+[ 2023-09-29 12:39:14,171 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 12:39:14,185 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 12:39:14,242 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:39:14] "GET / HTTP/1.1" 200 -
+[ 2023-09-29 12:39:16,167 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:39:16] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -
+[ 2023-09-29 12:39:16,175 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:39:16] "[36mGET /static/css/report.jpg HTTP/1.1[0m" 304 -
+[ 2023-09-29 12:39:16,518 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:39:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-29 12:41:21,715 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:41:21] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-29 12:41:22,030 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:41:22] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-09-29 12:42:18,622 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:42:18] "GET / HTTP/1.1" 200 -
+[ 2023-09-29 12:42:18,869 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:42:18] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -
+[ 2023-09-29 12:42:18,886 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2023 12:42:18] "[36mGET /static/css/report.jpg HTTP/1.1[0m" 304 -

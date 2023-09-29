@@ -1,0 +1,11 @@
+[ 2023-09-29 16:25:25,521 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 16:25:25,545 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 16:25:25,644 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_solvers.py', reloading
+[ 2023-09-29 16:25:25,661 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py', reloading
+[ 2023-09-29 16:25:25,699 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_sketches.py', reloading
+[ 2023-09-29 16:25:25,711 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py', reloading
+[ 2023-09-29 16:25:25,726 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\fftpack\\__init__.py', reloading
+[ 2023-09-29 16:25:25,748 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\fftpack\\_basic.py', reloading
+[ 2023-09-29 16:25:25,762 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\fftpack\\_pseudo_diffs.py', reloading
+[ 2023-09-29 16:25:25,777 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\fftpack\\_helper.py', reloading
+[ 2023-09-29 16:25:25,804 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\scipy\\fftpack\\_realtransforms.py', reloading

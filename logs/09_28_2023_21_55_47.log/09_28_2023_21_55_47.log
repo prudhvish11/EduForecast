@@ -1,0 +1,16 @@
+[ 2023-09-28 21:55:47,926 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-28 21:55:47,943 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-28 21:55:48,031 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "GET / HTTP/1.1" 200 -
+[ 2023-09-28 21:55:48,059 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/dashboard.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,370 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/1.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,373 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/3.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,377 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/4.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,392 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/5.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,397 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/6.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,684 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/7.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,686 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/8.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,694 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[33mGET /static/9.png HTTP/1.1[0m" 404 -
+[ 2023-09-28 21:55:48,753 ] 187 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2023 21:55:48] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -
+[ 2023-09-28 21:56:23,743 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading
+[ 2023-09-28 21:56:23,745 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading
+[ 2023-09-28 21:56:23,747 ] 187 werkzeug - INFO -  * Detected change in 'c:\\Users\\ADMIN\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning-main\\Predicting-Student-Performance-Using-Machine-Learning-main\\app.py', reloading

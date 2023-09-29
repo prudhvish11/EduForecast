@@ -1,0 +1,12 @@
+[ 2023-09-29 16:25:02,431 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-29 16:25:02,446 ] 187 werkzeug - INFO -  * Debugger PIN: 465-453-815
+[ 2023-09-29 16:25:14,096 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+[ 2023-09-29 16:25:14,175 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\_collections.py', reloading
+[ 2023-09-29 16:25:14,215 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+[ 2023-09-29 16:25:14,244 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+[ 2023-09-29 16:25:14,275 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+[ 2023-09-29 16:25:14,324 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\response.py', reloading
+[ 2023-09-29 16:25:14,370 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\util\\request.py', reloading
+[ 2023-09-29 16:25:14,389 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+[ 2023-09-29 16:25:14,454 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\urllib3\\util\\timeout.py', reloading
+[ 2023-09-29 16:25:14,467 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\ADMIN\\anaconda3\\envs\\movie_rec\\Lib\\site-packages\\IPython\\__init__.py', reloading
